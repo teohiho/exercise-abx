@@ -1,4 +1,4 @@
-Hi, everybody. It's algorithmes - Python
+Hi, everybody. It's algorithms - Python
 --
 Đây là các thuật toàn mình làm được bên web Leetcode. Mình làm những thuật toán này vì đây là bài tập của công ty mình đang thực tập <3
 Tổng cộng có 50 bài.
